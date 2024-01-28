@@ -1,1 +1,2 @@
-# Advertising_Campaigns_Analysis
+## Overview
+Promotional initiatives contribute to increased sales by enhancing visibility.  However, this advantage comes with a price, typically incurred per click when a user engages with our advertisement.  Each promotional drive comprises a set of keywords, and attached to each keyword are the parameters: bid, status, impressions, clicks, expenses, revenue, and advertising cost of sales (ACoS).  Every campaign is linked to a product with a break-even ACoS and a break-even cost.  Given these metrics and thresholds, our objective is to fine-tune keyword bids based on observed performance, aiming to identify the most effective bid strategy.
